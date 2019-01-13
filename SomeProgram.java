@@ -7,5 +7,6 @@ public class SomeProgram {
 	
 	public void ExploreSpace() {
 	// TODO implement
+	System.out.println("Ziuuum");
 	}
 }
